@@ -1,5 +1,5 @@
 {
-    "name": "سورس جيبثون العرب",
+    "name": " B𝑂𝑇 AL𝑂𝑆𝐻 𝑀𝐔𝑆𝐼𝐶 𓌹♱𓌺 ",
     "description": "تشغيل الاغاني في المجموعات",
     "logo": "https://te.legra.ph/file/46fa55b49b85c084159ce.jpg",
     "keywords": [
@@ -55,7 +55,7 @@
         "OWNER_USERNAME": {
             "description": "اكتب معرف المطور بدون @",
             "required": true,
-            "value": "lMl10l"
+            "value": ""
         },
         "ALIVE_NAME": {
             "description": "اكتب اسم المطور",
